@@ -1,0 +1,26 @@
+/* 16 px é igual a 1rem 
+36px = 36/16 = 2.5rem*/
+
+/*margin: 0;  tira margem e padding do meu layout*/
+
+/*height: 100vh; altura viwer port*/
+
+/*display: flex; alinha ao lado*/
+
+/*align-items: center; alinha ao centro*/
+
+/*justify-content: space-between; da espaço entre os elementos */
+
+/*width: 615px; largura*/
+
+/*font-size: 36px; altera o tamano da fonte*/
+
+/*font-weight: 400; peso da fonte*/
+
+/*display: flex;  é usada para criar um contêiner flexível. Isso transforma todos os filhos diretos desse elemento em itens flexíveis*/
+
+/*justify-content: space-between; colocando o primeiro item no início do contêiner e o último item no final, */
+
+/*text-align: center; alinhamento do texto*/
+
+/*border-radius: 8px; raio de arredondamento*/
